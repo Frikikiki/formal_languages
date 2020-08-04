@@ -1,0 +1,35 @@
+
+int main(int[] args)
+{
+	double b = 1.79769e+309;
+	double c = 1.79769e+307;
+	
+	int toto = 8;
+	//int toto = 8;
+	float Lfoko = 5.1;
+	int 1457error = 56;
+	int ir = 523423423222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222;
+	int te_st = 0;
+/* 
+{
+	44int i = 0;
+}
+
+*
+
+	inta binary = 0b1101001 | 3 && 4 != 2;
+	int octal = 0o2472;
+	int hexadecimal = 0xA15F;
+
+	float pi = -3.14159265359;
+	float a = 0.2E+12*5.0E-6;
+
+	char ch = '";
+	char ch1 = '\'';
+
+	string s = 'test"Str\'ing@3326';
+
+	read();
+	write(s);
+	return 42;
+}double
